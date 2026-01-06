@@ -1,7 +1,5 @@
 # covid19-data-warehouse-etl
-Got it 👍 — here’s a **short, clean, professional README** (perfect for GitHub and recruiters):
 
----
 
 # COVID-19 Data Warehouse & ETL (MySQL + Python)
 
